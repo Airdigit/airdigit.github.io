@@ -26,10 +26,10 @@ h1, h2 {
 
 h3 {
 	text-align: center;
-	font-size: 22px;
+	font-size: 15px;
 	font-weight: 300;
 	color: #F8F8F8;
-	line-height: 30px;
+	line-height: 37px;
 }
 
 img { max-width: 100%; }
@@ -105,7 +105,7 @@ img { max-width: 100%; }
 .top-content .description a:focus { border-bottom: 1px dotted #fff; }
 
 .form-box {
-	margin-top: 35px;
+	margin-top: 8px;
 }
 
 .form-top {
